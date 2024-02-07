@@ -3,7 +3,7 @@
 /*
     Paleta de cores:
 
-    Verde: #49a09d
+    Verde: #49a09dbody
     Lilas: #5f2c82
 */
 
@@ -22,7 +22,7 @@ body , html{
 main{
     position: relative;
     height: 100vh;
-    width: 100cw;
+    width: 100vw;
 }
 
 section#login{
